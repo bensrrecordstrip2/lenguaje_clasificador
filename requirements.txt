@@ -1,0 +1,7 @@
+Flask
+numpy
+pandas
+scikit_learn
+tensorflow-cpu
+gunicorn
+pickle-mixin
